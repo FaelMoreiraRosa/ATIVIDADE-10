@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+.part1{
+    display: flex;
+    font-size: larger;
+}
+
+.part2{
+    display: flex;
+    font-size: larger;
+}
